@@ -16,7 +16,7 @@ This website for showing data of covid virus.
 
 ## Live Demo
 
-[Live Demo Link]()
+[Live Demo Link](https://agitated-ritchie-4ea488.netlify.app/)
 
 
 
@@ -82,6 +82,8 @@ Feel free to check the [issues page](https://github.com/mustabbas/covid-data/iss
 
 Give a ⭐️ if you like this project!
 
+## Acknowledgments
+I would like to thank the designer who design this website [Nelson Sakwa](https://www.behance.net/sakwadesignstudio),
 
 ## 📝 License
 
