@@ -1,6 +1,31 @@
-# Getting Started with Create React App
+# Covid Data
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This website for showing data of covid virus.
+
+
+![screenshot](./app_screenshot1.png)
+![screenshot](./app_screenshot2.png)
+![screenshot](./app_screenshot3.png)
+
+
+## Built With
+
+-  React,Redux, CSS, JavaScript
+-  Visual Studio Code: A source code editor
+-  Git: A tool for managing source code
+
+## Live Demo
+
+[Live Demo Link](https://agitated-ritchie-4ea488.netlify.app/)
+
+
+
+## Getting Started
+
+Download the ZIP from this [Link](https://github.com/mustabbas/covid-data), or run the following git command to clone the files to your machine:
+
+git clone https://github.com/mustabbas/covid-data.git
+
 
 ## Available Scripts
 
@@ -39,32 +64,27 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
-## Learn More
+## Authors
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+👤 **MUSTAFA ABBAS**
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+- GitHub: [@githubhandle](https://github.com/mustabbas)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/mustabbas/)
 
-### Code Splitting
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+## 🤝 Contributing
 
-### Analyzing the Bundle Size
+Contributions, issues, and feature requests are welcome!
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+Feel free to check the [issues page](https://github.com/mustabbas/covid-data/issues).
 
-### Making a Progressive Web App
+## Show your support
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+Give a ⭐️ if you like this project!
 
-### Advanced Configuration
+## Acknowledgments
+I would like to thank the designer who design this website [Nelson Sakwa](https://www.behance.net/sakwadesignstudio),
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+## 📝 License
 
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+This project is [MIT](./MIT.md) licensed.
